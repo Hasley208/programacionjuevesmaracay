@@ -26,3 +26,5 @@ este sitio web contiene losiguiente
 
 
 `<h1>hola mundo</h1>`
+
+![foto](assets/imagens/logo.png)
