@@ -5,3 +5,8 @@ este sitio web contiene losiguiente
 - pagina- de servicios: donde se detalla cada uno de los servicios.
 - pagina del team- donde se muestra la profesion, foto y datos de contacto. 
 - pagina de contenido: contiene un titulo, formulario de contacto y google maps
+
+
+
+ > Un país, una civilización se puede juzgar por la forma que trata a sus animales. - mahatma gandhi
+  
