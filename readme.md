@@ -10,6 +10,8 @@ este sitio web contiene losiguiente
 
  > Un país, una civilización se puede juzgar por la forma que trata a sus animales. - mahatma gandhi
 
+
+
  * SERVICIOS
     * venta de consolas y videojuegos
      * Accesorios Gamer de Alta Gama
@@ -17,5 +19,5 @@ este sitio web contiene losiguiente
          * PlayStation
          * Xbox
          * Switch
-         
+
 
