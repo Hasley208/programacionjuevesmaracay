@@ -1,0 +1,74 @@
+.box{
+    width: 100px;
+    height:100px;
+    animation-name: box;
+    animation-duration: 2s;
+    background-color: #4fbcd5;
+    animation-iteration-count: 5s;
+    position: relative;
+
+}
+@keyframes box {
+   /* from{ background-color: hsl(0, 100%, 50%);}
+    to{ background-color: #ffdd00;}*/
+
+   /* 0%{background-color: #f1fb96;}
+    25%{background-color: violet;}
+    50%{background-color: #ee8181;}
+    75%{background-color: #82ee99;}
+    100%{background-color: #4fbcd5;}*/
+
+    0%{background-color: #4fbcd5; left:40px; right: 100px }
+    100%{background-color: #f1fb96; left: 300px; right:600px}
+    
+}
+
+.box2{
+    width: 100px;
+    height: 100px;
+    animation-name: box2;
+    animation-duration: 2s;
+    background-color: #4ed481;
+    animation-iteration-count: 5s;
+    position: relative; 
+
+}
+@keyframes box2{
+    0%{left:30px; right:60px }
+    100%{ left: 550px; right:555px}
+}
+
+
+.boxgana{
+    width: 100px;
+    height: 100px;
+    animation-name: boxgana;
+    animation-duration: 2s;
+    background-color: lab(52.01% 52.35 28.14);
+    animation-iteration-count: 5s; 
+    position: relative;
+
+}
+
+@keyframes boxgana{
+    0%{left:30px; right: 500; }
+    100%{ left: 500px; right: 900px}
+
+}
+
+.box3{
+    width: 100px;
+    height: 100px;
+    animation-name: box3;
+    animation-duration: 2s;
+    background-color: lch(39.56% 100.84 314.26);
+    animation-iteration-count: 5s; 
+    position: relative;
+
+}
+
+@keyframes box3{
+    0%{left:30px; right: 400; }
+    100%{ left: 300px; right: 600px}
+
+}
