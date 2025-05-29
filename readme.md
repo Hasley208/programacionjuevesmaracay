@@ -20,4 +20,5 @@ este sitio web contiene losiguiente
          * Xbox
          * Switch
 
+ [buscador](https://www.google.co.ve/?hl=es)
 
